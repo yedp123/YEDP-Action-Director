@@ -11,6 +11,9 @@ A powerful, standalone 3D scene and animation tool built specifically for AI vid
 ## Overview
 YEDP Action Director bridges the gap between traditional 3D staging and generative AI. Easily design sets, animate characters, and compose camera angles without needing years of 3D software experience. Process everything locally on your hardware with zero telemetry.
 
+## 💡 A Note from the Developer
+This software is a solo passion project. While I have worked hard to make it a stable and useful tool, you may encounter bugs, quirks, or rough edges. I am sharing it in the hopes that it helps others in the community, and I greatly appreciate your patience and feedback!
+
 ## Key Features
 * **GPU Path-Tracing:** Hardware-accelerated real-time 3D viewport for high-quality previews.
 * **Control Pass Exports:** Generate and export perfect unlit OpenPose skeletons, depth maps, and edge-detection passes directly to your local drive.
@@ -25,7 +28,7 @@ Because YEDP Action Director utilizes local WebGL path-tracing and offline AI mo
 * **Storage:** 500MB available space
 
 ## Installation
-1. Go to the [Releases](https://github.com/YOUR_USERNAME/YEDP-Action-Director/releases/latest) page.
+1. Go to the [Releases](https://github.com/yedp123/YEDP-Action-Director/releases/latest) page.
 2. Download `YEDP Action Director_1.0.0_x64-setup.exe`.
 3. Run the installer and follow the on-screen prompts.
 
