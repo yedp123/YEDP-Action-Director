@@ -3,7 +3,7 @@
 A powerful, standalone 3D scene and animation tool built specifically for AI video and image creators using workflows like ComfyUI, FLUX, and ControlNet.
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/yedp123/YEDP-Action-Director/releases/latest)
-[![Get it from Microsoft](https://img.shields.io/badge/Get_it_from-Microsoft_Store-black?style=for-the-badge&logo=windows)](https://temp)
+[![Get it from Microsoft](https://img.shields.io/badge/Get_it_from-Microsoft_Store-darkgreen?style=for-the-badge&logo=windows)](https://SubmissionInProgress)
 
 <img width="1920" height="1040" alt="93a96a8c3d43ce1a64e762eeba8974ed" src="https://github.com/user-attachments/assets/023427ef-dddb-4a94-994e-1f8171157dd3" />
 
